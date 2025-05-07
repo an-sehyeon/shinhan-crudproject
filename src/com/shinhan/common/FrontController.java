@@ -2,7 +2,7 @@ package com.shinhan.common;
 
 import java.util.Scanner;
 
-// FrontController패턴 : controller가 여러개인 경우 사용자의 요청과 응답은 출가가 여러개
+// FrontController패턴 : controller가 여러개인 경우 사용자의 요청과 응답은 출구가 여러개
 // 바람직하지 않음
 //- 추후 Servlet으로 구현 : DispatcherServlet이 있다.(String은 FrontController가 이미 있다.)
 public class FrontController {
